@@ -1,6 +1,9 @@
 # OTCDR
+
 OTCDR: Optimal Transport–Guided Cancer Drug Response Prediction
 Overview
+
+<img width="1173" height="703" alt="Diagram" src="https://github.com/user-attachments/assets/471f1561-7765-47ff-acb0-95d48f26bca3" />
 
 OTCDR is a matrix factorization–based framework for predicting interactions between anticancer drugs and cancer cell lines. The model integrates graph-based molecular representations, optimal transport–derived similarity measures, and ridge regression–regularized matrix factorization to produce biologically meaningful and generalizable predictions of drug response.
 
