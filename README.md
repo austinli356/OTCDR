@@ -35,8 +35,6 @@ Model Performance
 
 OTCDR is evaluated using 5-fold cross-validation and demonstrates strong predictive performance relative to existing methods:
 
-AUROC: 0.89
-
-AUPR: 0.57
+![Figure A_page-0001](https://github.com/user-attachments/assets/10b75db3-d172-44a5-8092-25e4caefced5)
 
 These results indicate robust generalization and strong ranking performance in a challenging, imbalanced prediction setting.
